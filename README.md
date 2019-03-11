@@ -21,6 +21,7 @@
 3. word2vec词向量
 4. 特征工程
 ## 建模，做出预测解决问题
-1. 使用tfidf+单机器学习模型
-2. 词向量+深度学习
-3. 模型融合
+1. tfidf+Logistic Regression
+2. word2vec+svm
+3. tfidf+lgb
+4. 模型融合
